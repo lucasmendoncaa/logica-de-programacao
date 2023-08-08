@@ -1,2 +1,5 @@
-# logica-de-programacao
-Exemplo básico de um programa que nos informa se o número digitado é múltiplo de 5 em Portugol. Primeira aula prática da minha pós em Análise e Desenvolvimento de Sistemas.
+# Lógica de programação
+
+## Exercícios
+
+1. Multiplo de 5
