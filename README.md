@@ -6,5 +6,6 @@
 2. Tabuada básica
 3. Adega de vinhos
 4. Vetor<br>
-   a. Vetor (Frente e verso)
+   a. Vetor (Frente e verso)<br>
+   b. Vetor Par/Ímpar
    
