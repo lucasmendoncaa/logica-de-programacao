@@ -8,5 +8,6 @@
 4. Vetor<br>
    a. Frente e verso<br>
    b. Par ou Ímpar<br>
-   c. Busca nome
+   c. Busca nome<br>
+   d. Subtração, adição e multiplicação entre dois vetores
    
