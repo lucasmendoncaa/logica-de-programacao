@@ -10,4 +10,6 @@
    b. Par ou Ímpar<br>
    c. Busca nome<br>
    d. Subtração, adição e multiplicação entre dois vetores
+5. Matriz<br>
+   a. Matriz 5x5 números aleatórios
    
