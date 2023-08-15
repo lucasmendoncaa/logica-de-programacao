@@ -11,5 +11,6 @@
    c. Busca nome<br>
    d. Subtração, adição e multiplicação entre dois vetores
 5. Matriz<br>
-   a. Matriz 5x5 números aleatórios
+   a. Matriz 5x5 números aleatórios<br>
+   b. Somar linhas e colunas de uma matriz 10x15 e informar se os números somados são pares ou ímpares
    
