@@ -14,4 +14,5 @@
    a. Matriz 5x5 números aleatórios<br>
    b. Somar linhas e colunas de uma matriz 10x15 e informar se os números somados são pares ou ímpares<br>
    c. Matriz 50x50 e armazenar os valores da diagonal principal dentro de um vetor<br>
-   d. Matriz transposta
+   d. Matriz transposta<br>
+   e. Multiplicação de duas matrizes
