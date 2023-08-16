@@ -12,5 +12,5 @@
    d. Subtração, adição e multiplicação entre dois vetores
 5. Matriz<br>
    a. Matriz 5x5 números aleatórios<br>
-   b. Somar linhas e colunas de uma matriz 10x15 e informar se os números somados são pares ou ímpares
-   
+   b. Somar linhas e colunas de uma matriz 10x15 e informar se os números somados são pares ou ímpares<br>
+   c. Matriz 50x50 e armazenar os valores da diagonal principal dentro de um vetor
