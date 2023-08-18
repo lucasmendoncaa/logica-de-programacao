@@ -16,4 +16,6 @@
    c. Matriz 50x50 e armazenar os valores da diagonal principal dentro de um vetor<br>
    d. Matriz transposta<br>
    e. Multiplicação de duas matrizes<br>
-   f. Programa multifunção, impressão matriz, somar ao quadrado, soma linhas, diagonal principal e números pares. 
+   f. Programa multifunção, impressão matriz, somar ao quadrado, soma linhas, diagonal principal e números pares. <br>
+6. Função/Procedimentos<br>
+   a. Calculadora Simples
