@@ -18,4 +18,5 @@
    e. Multiplicação de duas matrizes<br>
    f. Programa multifunção, impressão matriz, somar ao quadrado, soma linhas, diagonal principal e números pares. <br>
 6. Função/Procedimentos<br>
-   a. Calculadora Simples
+   a. Calculadora Simples<br>
+   b. Média com Função
