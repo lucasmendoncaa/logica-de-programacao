@@ -19,4 +19,5 @@
    f. Programa multifunção, impressão matriz, somar ao quadrado, soma linhas, diagonal principal e números pares. <br>
 6. Função/Procedimentos<br>
    a. Calculadora Simples<br>
-   b. Média com Função
+   b. Média com Função<br>
+   c. Conversão de Unidades
