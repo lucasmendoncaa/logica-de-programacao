@@ -20,4 +20,5 @@
 6. Função/Procedimentos<br>
    a. Calculadora Simples<br>
    b. Média com Função<br>
-   c. Conversão de Unidades
+   c. Conversão de Unidades<br>
+   d. Conversor de Moedas
